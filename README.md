@@ -1,5 +1,4 @@
-# 💫 About Me:
-Project Lead | Full Stack Developer | AI-Powered Algorithmic Trading Engineer | Python | React | Django | MERN | DSA | AWS | Building Scalable FinTech & Quant
+# About Me:
 
 Building next-generation software products powered by AI, real-time data, and scalable cloud infrastructure. Full Stack Engineer specializing in scalable web platforms, AI-driven applications, and real-time financial systems.
 I have worked extensively as a Full Stack Developer on multiple projects, developing scalable, high-performance web applications across different domains. My experience includes building modern frontend interfaces, backend APIs, real-time systems, cloud-based applications, and data-driven platforms using React, Node.js, Express.js, MySql, Python, and Django.
